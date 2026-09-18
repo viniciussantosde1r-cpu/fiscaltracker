@@ -11,3 +11,4 @@ streamlit
 pandas
 openpyxl
 pdfplumber
+pypdf
